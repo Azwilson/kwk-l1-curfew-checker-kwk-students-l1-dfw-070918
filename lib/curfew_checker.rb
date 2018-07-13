@@ -8,7 +8,7 @@ end
 
 def curfew_checker(time)
   if time > 11
-  
+   puts ""
   else time 
   do_something_else_here
   end
